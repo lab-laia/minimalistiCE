@@ -1,0 +1,25 @@
+minimalistiCE
+Copyright © 2025 Claudimir Lucio do Lago and Ivan Verlangieri
+
+This project contains hardware, software, and documentation released under
+different but fully open licences.  Each directory includes the complete
+licence text that applies to its contents.
+
+Summary of licences:
+
+Hardware designs: CERN-OHL-P v2.0
+see hardware/LICENSE-HARDWARE.txt
+
+Software: MIT License
+see software/LICENSE-SOFTWARE.txt
+
+Documentation and media: Creative Commons Attribution 4.0 International (CC BY 4.0)
+see docs/LICENSE-DOCS.txt
+
+All licences permit use, modification, distribution, and commercial use,
+provided that attribution to the original authors is maintained.
+
+SPDX-License-Identifiers:
+CERN-OHL-P-2.0  
+MIT  
+CC-BY-4.0

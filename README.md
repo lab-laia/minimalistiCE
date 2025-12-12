@@ -1,8 +1,10 @@
-# Welcome to the minimalistiCE project!
+# Welcome to the minimalistiCE project! <img width="151" height="26" alt="oi" src="https://github.com/user-attachments/assets/a377a624-7fcd-4e9c-a70f-559433fbe098" />
 
-minimalistiCE is a complete and modular equipment for Capilary Electrophoresis (CE) with Capacitevely Coupled Contactless Conductivity Detection (C<sup>4</sup>D) and, best of all, is totally open soruce and mostly 3D-printed!
 
-Here you can find all necessary CAD files (HARDWARE folder), firmware and front end (SOFTWARE folder) and documentation (DOCUMENTATION folder) for building and operating the equipment. Here's a step by step, which is also available in full within the documentation folder:
+minimalistiCE is a complete and modular equipment for Capilary Electrophoresis (CE) with Capacitevely Coupled Contactless Conductivity Detection (C<sup>4</sup>D) and, best of all, is totally open source and mostly 3D-printed!
+
+Here you can find all necessary CAD files (HARDWARE folder), firmware and front end (SOFTWARE folder) and documentation (DOCUMENTATION folder) for building and operating the equipment.
+Here's a step by step, which is also available in full within the documentation folder:
 
 1- Bill of Materials (BOM): All the necessary components to build the equipment
 
@@ -10,7 +12,7 @@ Here you can find all necessary CAD files (HARDWARE folder), firmware and front 
 
 3- Building Guide: A comprehensive, step-by-step, guide to assemble the hardware and installing all software necessary
 
-4- Operation Guide: Instructions to operate and getting results of your fully assembled new equipment
+4- Operation Guide: Instructions to operate and getting results off your fully assembled new equipment
 
 It is assumed that the builder/user has at least basic knowledge on electronics/electrical work, Arduino programming and familiarity with CE. CE is a separation technique that employ high voltages (up to 30 kV) and, therefore, should be taken with care and respect.
 

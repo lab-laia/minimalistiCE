@@ -1,3 +1,5 @@
+#Welcome to the minimalistiCE project!
+
 **Building the MinimalistiCE structure**
 
 The table below shows all necessary components to build a full frame:

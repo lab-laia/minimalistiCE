@@ -15,3 +15,5 @@ Here's a step by step, which is also available in full within the documentation 
 It is assumed that the builder/user has at least basic knowledge on electronics/electrical work, Arduino programming and familiarity with CE. CE is a separation technique that employ high voltages (up to 30 kV) and, therefore, should be taken with care and respect.
 
 Happy building!
+
+###### © 2025 Claudimir Lucio do Lago and Ivan Verlangieri. Hardware designs are licensed under CERN-OHL-P v2.0, software under the MIT License and documentation under Creative Commons Attribution 4.0 International (CC BY 4.0); see the respective LICENSE files for full terms.

@@ -16,4 +16,4 @@ It is assumed that the builder/user has at least basic knowledge on electronics/
 
 Happy building!
 
-###### © 2025 Claudimir Lucio do Lago and Ivan Verlangieri. Hardware designs are licensed under CERN-OHL-P v2.0, software under the MIT License and documentation under Creative Commons Attribution 4.0 International (CC BY 4.0); see the respective LICENSE files for full terms.
+###### © 2025 Claudimir Lucio do Lago and Ivan Verlangieri. Hardware designs are licensed under CERN-OHL-P v2.0, software under the MIT License and documentation under Creative Commons Attribution 4.0 International (CC BY 4.0). See the respective LICENSE files for full terms.

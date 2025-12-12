@@ -8,7 +8,7 @@ Here's a step by step, which is also available in full within the documentation 
 
 > 2- 3D Printing: A 3D printing guide to help getting the most out of minimalistiCE
 
-> 3- Building Guide: A comprehensive, step-by-step, guide to assemble the hardware and installing all software necessary
+> 3- Construction Guide: A comprehensive, step-by-step, guide to assemble the hardware and installing all software necessary
 
 > 4- Operation Guide: Instructions to operate and obtain results off your fully assembled new equipment
 

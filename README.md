@@ -1,4 +1,4 @@
-#Welcome to the minimalistiCE project!
+# Welcome to the minimalistiCE project!
 
 **Building the MinimalistiCE structure**
 

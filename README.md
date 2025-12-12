@@ -1,11 +1,11 @@
 # Welcome to the <img width="166" height="29" alt="oi" src="https://github.com/user-attachments/assets/e6188aa8-eb0c-4259-91f4-4923aa04e924" /> project!
 
-#### minimalistiCE is a complete, modular Capillary Electrophoresis (CE) instrument with Capacitively Coupled Contactless Conductivity Detection (C<sup>4</sup>D) and—best of all—is **fully open source** and mostly 3D-printed!
+#### minimalistiCE is a complete, modular Capillary Electrophoresis (CE) instrument with Capacitively Coupled Contactless Conductivity Detection (C<sup>4</sup>D) and —best of all— is **fully open source** and mostly 3D-printed!
 
 Here you can find everything needed to build and operate the equipment:
+- Documentation: [DOCUMENTATION folder](https://github.com/lab-laia/minimalistiCE/tree/main/DOCUMENTATION)
 - CAD files: [HARDWARE folder](https://github.com/lab-laia/minimalistiCE/tree/main/HARDWARE)
 - Firmware and front end: [SOFTWARE folder](https://github.com/lab-laia/minimalistiCE/tree/main/SOFTWARE)
-- Documentation: [DOCUMENTATION folder](https://github.com/lab-laia/minimalistiCE/tree/main/DOCUMENTATION)
 
 A step-by-step roadmap (also available in full in the documentation folder):
 

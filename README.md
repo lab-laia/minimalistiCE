@@ -1,6 +1,6 @@
 # Welcome to the <img width="151" height="26" alt="oi" src="https://github.com/user-attachments/assets/9d3718ea-9fe6-4cab-a562-dac167b8e882" /> project! 
 
-minimalistiCE is a complete and modular equipment for Capilary Electrophoresis (CE) with Capacitevely Coupled Contactless Conductivity Detection (C<sup>4</sup>D) and, best of all, is totally open source and mostly 3D-printed!
+minimalistiCE is a complete and modular equipment for Capilary Electrophoresis (CE) with Capacitevely Coupled Contactless Conductivity Detection (C<sup>4</sup>D) and, best of all, is *totally open source* and mostly 3D-printed!
 
 Here you can find all necessary CAD files (HARDWARE folder), firmware and front end (SOFTWARE folder) and documentation (DOCUMENTATION folder) for building and operating the equipment.
 Here's a step by step, which is also available in full within the documentation folder:

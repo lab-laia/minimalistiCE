@@ -4,7 +4,7 @@
 
 Here you can find everything needed to build and operate the equipment:
 - Documentation: [DOCUMENTATION folder](https://github.com/lab-laia/minimalistiCE/tree/main/DOCUMENTATION)
-- CAD files: [HARDWARE folder](https://github.com/lab-laia/minimalistiCE/tree/main/HARDWARE)
+- CAD files and schematics for PCBs: [HARDWARE folder](https://github.com/lab-laia/minimalistiCE/tree/main/HARDWARE)
 - Firmware and front end: [SOFTWARE folder](https://github.com/lab-laia/minimalistiCE/tree/main/SOFTWARE)
 
 A step-by-step roadmap (also available in full in the documentation folder):

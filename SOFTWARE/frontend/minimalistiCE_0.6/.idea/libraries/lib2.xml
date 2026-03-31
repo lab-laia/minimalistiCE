@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/beansbinding-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/SerineProtocol-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jLAIA-0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.6.0-snapshot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jssc-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jssc-2.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jssc-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
